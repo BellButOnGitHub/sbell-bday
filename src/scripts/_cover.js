@@ -10,10 +10,7 @@ $(document).ready(() => {
 
 $('#cta').click(() => {
   // change title
-  document.title = 'Tina Breaton | Web Developer';
-
-  // set favicon to code
-  $('link[rel="shortcut icon"]').attr('href', './favicon-code.ico');
+  document.title = 'I love you mom!!';
 
   // start css lift animation
   $('#cover').addClass('lift');
